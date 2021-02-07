@@ -1,7 +1,18 @@
-# KWipe
-### KWipe is a secure erase (wipe) application, completely written in PyQt5!
 
-Video: https://www.youtube.com/watch?v=bXG-aEDUNXc
+<h1 align="center">KWipe</h1>
+
+<br>
+
+### Kwile é um aplicativo para exclusão de arquivos de forma segura, escrito em PyQt5!
+
+<br>
+
+### Dependências:
+~~~
+sudo apt-get install python3 python*parted python3-pyqt5
+~~~
+
+<br>
 
 ##### Supported Wipe-Modes:
 - One
